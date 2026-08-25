@@ -4,9 +4,11 @@ services:
     container_name: mongodb
     ports:
       - "27017:27017"
+    env_file:
+      - ./app/.env
     environment:
-      MONGO_INITDB_ROOT_USERNAME: root
-      MONGO_INITDB_ROOT_PASSWORD: root
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
       MONGO_INITDB_DATABASE: vakeel_contracts
     volumes:
       # Use :Z for SELinux relabeling (required for rootless Podman)

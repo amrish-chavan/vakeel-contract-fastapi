@@ -38,6 +38,7 @@ AI-powered contract analysis API built with FastAPI and Google Gemini.
 
    Then edit `app/.env` and set real values:
    - `MONGODB_URI` — MongoDB connection string
+   - `MONGO_INITDB_ROOT_USERNAME` / `MONGO_INITDB_ROOT_PASSWORD` — MongoDB container credentials (consumed by `docker-compose.yml` via `env_file`; keep these secret and out of version control)
    - `GEMINI_API_KEY` — Google Gemini API key
 
 3. Start MongoDB:
