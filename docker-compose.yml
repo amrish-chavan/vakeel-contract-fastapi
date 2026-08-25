@@ -1,0 +1,27 @@
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+      MONGO_INITDB_DATABASE: vakeel_contracts
+    volumes:
+      # Use :Z for SELinux relabeling (required for rootless Podman)
+      - ./mongodb:/data/db:Z
+      - ./mongodb-config:/data/configdb:Z
+    networks:
+      - vakeel-network
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    restart: unless-stopped
+
+networks:
+  vakeel-network:
+    driver: bridge

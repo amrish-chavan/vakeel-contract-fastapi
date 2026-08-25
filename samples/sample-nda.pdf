@@ -1,0 +1,235 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Length 3833 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+1 0 0 1 54 742 Tm (SAMPLE DOCUMENT -- FOR SOFTWARE TESTING ONLY. NOT A LEGAL INSTRUMENT.) Tj
+1 0 0 1 54 730 Tm () Tj
+1 0 0 1 54 718 Tm (MUTUAL NON-DISCLOSURE AGREEMENT) Tj
+1 0 0 1 54 706 Tm () Tj
+1 0 0 1 54 694 Tm (This Mutual Non-Disclosure Agreement \(the "Agreement"\) is entered into as of 15 August 2026) Tj
+1 0 0 1 54 682 Tm (\(the "Effective Date"\)) Tj
+1 0 0 1 54 670 Tm () Tj
+1 0 0 1 54 658 Tm (BETWEEN) Tj
+1 0 0 1 54 646 Tm () Tj
+1 0 0 1 54 634 Tm (Vakeel Technologies Private Limited, a company incorporated under the Companies Act, 2013,) Tj
+1 0 0 1 54 622 Tm (having its registered office at 12th Floor, Maker Chambers, Nariman Point, Mumbai 400021,) Tj
+1 0 0 1 54 610 Tm (Maharashtra, India \("Disclosing Party"\);) Tj
+1 0 0 1 54 598 Tm () Tj
+1 0 0 1 54 586 Tm (AND) Tj
+1 0 0 1 54 574 Tm () Tj
+1 0 0 1 54 562 Tm (Northwind Analytics Private Limited, a company incorporated under the Companies Act, 2013,) Tj
+1 0 0 1 54 550 Tm (having its registered office at Plot 48, HITEC City, Hyderabad 500081, Telangana, India) Tj
+1 0 0 1 54 538 Tm (\("Receiving Party"\).) Tj
+1 0 0 1 54 526 Tm () Tj
+1 0 0 1 54 514 Tm (The Disclosing Party and the Receiving Party are each a "Party" and together the "Parties".) Tj
+1 0 0 1 54 502 Tm () Tj
+1 0 0 1 54 490 Tm (RECITALS) Tj
+1 0 0 1 54 478 Tm () Tj
+1 0 0 1 54 466 Tm (The Parties wish to explore a potential software services engagement relating to) Tj
+1 0 0 1 54 454 Tm (contract-intelligence tooling \(the "Purpose"\) and may disclose confidential information to) Tj
+1 0 0 1 54 442 Tm (each other in connection with the Purpose.) Tj
+1 0 0 1 54 430 Tm () Tj
+1 0 0 1 54 418 Tm (NOW, THEREFORE, in consideration of the mutual covenants herein, the Parties agree as) Tj
+1 0 0 1 54 406 Tm (follows:) Tj
+1 0 0 1 54 394 Tm () Tj
+1 0 0 1 54 382 Tm (1. DEFINITIONS) Tj
+1 0 0 1 54 370 Tm () Tj
+1 0 0 1 54 358 Tm (1.1 "Confidential Information" means all non-public information disclosed by one Party \(the) Tj
+1 0 0 1 54 346 Tm ("Discloser"\) to the other Party \(the "Recipient"\), whether in written, oral, electronic, or) Tj
+1 0 0 1 54 334 Tm (visual form, including without limitation business plans, customer lists, pricing, source) Tj
+1 0 0 1 54 322 Tm (code, models, prompts, datasets, product roadmaps, and the existence of discussions between) Tj
+1 0 0 1 54 310 Tm (the Parties.) Tj
+1 0 0 1 54 298 Tm () Tj
+1 0 0 1 54 286 Tm (1.2 "Representatives" means a Party's employees, officers, directors, professional advisers,) Tj
+1 0 0 1 54 274 Tm (and subcontractors who have a need to know the Confidential Information for the Purpose.) Tj
+1 0 0 1 54 262 Tm () Tj
+1 0 0 1 54 250 Tm (2. OBLIGATIONS OF CONFIDENTIALITY) Tj
+1 0 0 1 54 238 Tm () Tj
+1 0 0 1 54 226 Tm (2.1 The Recipient shall hold Confidential Information in strict confidence and shall not) Tj
+1 0 0 1 54 214 Tm (disclose it to any third party without the prior written consent of the Discloser, except to) Tj
+1 0 0 1 54 202 Tm (Representatives bound by confidentiality obligations no less protective than this Agreement.) Tj
+1 0 0 1 54 190 Tm () Tj
+1 0 0 1 54 178 Tm (2.2 The Recipient shall use Confidential Information solely for the Purpose and for no other) Tj
+1 0 0 1 54 166 Tm (purpose whatsoever.) Tj
+1 0 0 1 54 154 Tm () Tj
+1 0 0 1 54 142 Tm (2.3 The Recipient shall protect Confidential Information using at least the same degree of) Tj
+1 0 0 1 54 130 Tm (care it uses to protect its own confidential information, and in no event less than) Tj
+1 0 0 1 54 118 Tm (reasonable care.) Tj
+1 0 0 1 54 106 Tm () Tj
+1 0 0 1 54 94 Tm (3. EXCLUSIONS) Tj
+1 0 0 1 54 82 Tm () Tj
+1 0 0 1 54 70 Tm (Confidential Information does not include information that: \(a\) is or becomes publicly) Tj
+1 0 0 1 54 58 Tm (available other than through a breach of this Agreement; \(b\) was already in the Recipient's) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 3 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 4049 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+1 0 0 1 54 742 Tm (possession without confidentiality obligation; \(c\) is independently developed without use of) Tj
+1 0 0 1 54 730 Tm (Confidential Information; or \(d\) is rightfully received from a third party without) Tj
+1 0 0 1 54 718 Tm (restriction.) Tj
+1 0 0 1 54 706 Tm () Tj
+1 0 0 1 54 694 Tm (4. COMPELLED DISCLOSURE) Tj
+1 0 0 1 54 682 Tm () Tj
+1 0 0 1 54 670 Tm (If the Recipient is required by law, regulation, or court order to disclose Confidential) Tj
+1 0 0 1 54 658 Tm (Information, it shall, to the extent legally permitted, give the Discloser prompt written) Tj
+1 0 0 1 54 646 Tm (notice so that the Discloser may seek a protective order. The Recipient shall disclose only) Tj
+1 0 0 1 54 634 Tm (the portion legally required.) Tj
+1 0 0 1 54 622 Tm () Tj
+1 0 0 1 54 610 Tm (5. TERM AND SURVIVAL) Tj
+1 0 0 1 54 598 Tm () Tj
+1 0 0 1 54 586 Tm (5.1 This Agreement commences on the Effective Date and continues for two \(2\) years, and) Tj
+1 0 0 1 54 574 Tm (shall automatically renew for successive one-year terms unless either Party gives sixty \(60\)) Tj
+1 0 0 1 54 562 Tm (days' prior written notice of non-renewal.) Tj
+1 0 0 1 54 550 Tm () Tj
+1 0 0 1 54 538 Tm (5.2 Confidentiality obligations shall survive for five \(5\) years after termination or expiry) Tj
+1 0 0 1 54 526 Tm (of this Agreement, and indefinitely with respect to trade secrets.) Tj
+1 0 0 1 54 514 Tm () Tj
+1 0 0 1 54 502 Tm (6. RETURN OR DESTRUCTION) Tj
+1 0 0 1 54 490 Tm () Tj
+1 0 0 1 54 478 Tm (Upon written request, or upon termination of this Agreement, the Recipient shall promptly) Tj
+1 0 0 1 54 466 Tm (return or securely destroy all Confidential Information and certify destruction in writing) Tj
+1 0 0 1 54 454 Tm (within fifteen \(15\) days. One copy may be retained solely for archival or legal-compliance) Tj
+1 0 0 1 54 442 Tm (purposes.) Tj
+1 0 0 1 54 430 Tm () Tj
+1 0 0 1 54 418 Tm (7. INTELLECTUAL PROPERTY) Tj
+1 0 0 1 54 406 Tm () Tj
+1 0 0 1 54 394 Tm (Nothing in this Agreement grants either Party any licence, assignment, or other right in the) Tj
+1 0 0 1 54 382 Tm (other Party's intellectual property. All Confidential Information remains the property of) Tj
+1 0 0 1 54 370 Tm (the Discloser.) Tj
+1 0 0 1 54 358 Tm () Tj
+1 0 0 1 54 346 Tm (8. NON-SOLICITATION AND NON-COMPETE) Tj
+1 0 0 1 54 334 Tm () Tj
+1 0 0 1 54 322 Tm (8.1 During the term of this Agreement and for twenty-four \(24\) months thereafter, the) Tj
+1 0 0 1 54 310 Tm (Receiving Party shall not, directly or indirectly, solicit or hire any employee of the) Tj
+1 0 0 1 54 298 Tm (Disclosing Party.) Tj
+1 0 0 1 54 286 Tm () Tj
+1 0 0 1 54 274 Tm (8.2 During the term of this Agreement and for thirty-six \(36\) months thereafter, the) Tj
+1 0 0 1 54 262 Tm (Receiving Party shall not, anywhere in India or any other country, develop, market, or) Tj
+1 0 0 1 54 250 Tm (provide any software, service, or product that is similar to or competitive with any product) Tj
+1 0 0 1 54 238 Tm (or service of the Disclosing Party.) Tj
+1 0 0 1 54 226 Tm () Tj
+1 0 0 1 54 214 Tm (9. INDEMNITY) Tj
+1 0 0 1 54 202 Tm () Tj
+1 0 0 1 54 190 Tm (The Receiving Party shall indemnify, defend, and hold harmless the Disclosing Party and its) Tj
+1 0 0 1 54 178 Tm (directors, officers, and affiliates from and against any and all claims, losses, damages,) Tj
+1 0 0 1 54 166 Tm (liabilities, costs, and expenses \(including full legal fees on an indemnity basis\) arising) Tj
+1 0 0 1 54 154 Tm (out of or related to any breach of this Agreement by the Receiving Party or its) Tj
+1 0 0 1 54 142 Tm (Representatives, whether or not the Disclosing Party was negligent.) Tj
+1 0 0 1 54 130 Tm () Tj
+1 0 0 1 54 118 Tm (10. LIMITATION OF LIABILITY) Tj
+1 0 0 1 54 106 Tm () Tj
+1 0 0 1 54 94 Tm (10.1 The Disclosing Party shall have no liability whatsoever under this Agreement, whether) Tj
+1 0 0 1 54 82 Tm (in contract, tort \(including negligence\), or otherwise, including for any indirect,) Tj
+1 0 0 1 54 70 Tm (incidental, special, or consequential damages.) Tj
+1 0 0 1 54 58 Tm () Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 3422 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+1 0 0 1 54 742 Tm (10.2 The Receiving Party's liability under this Agreement shall be unlimited.) Tj
+1 0 0 1 54 730 Tm () Tj
+1 0 0 1 54 718 Tm (11. NON-CIRCUMVENTION) Tj
+1 0 0 1 54 706 Tm () Tj
+1 0 0 1 54 694 Tm (The Receiving Party shall not, for a period of three \(3\) years from the Effective Date,) Tj
+1 0 0 1 54 682 Tm (circumvent the Disclosing Party by dealing directly with any customer, vendor, or partner of) Tj
+1 0 0 1 54 670 Tm (the Disclosing Party that was introduced in connection with the Purpose.) Tj
+1 0 0 1 54 658 Tm () Tj
+1 0 0 1 54 646 Tm (12. ASSIGNMENT) Tj
+1 0 0 1 54 634 Tm () Tj
+1 0 0 1 54 622 Tm (The Disclosing Party may assign this Agreement without consent. The Receiving Party may not) Tj
+1 0 0 1 54 610 Tm (assign or transfer this Agreement, in whole or in part, without the prior written consent of) Tj
+1 0 0 1 54 598 Tm (the Disclosing Party, which may be withheld in the Disclosing Party's sole discretion.) Tj
+1 0 0 1 54 586 Tm () Tj
+1 0 0 1 54 574 Tm (13. GOVERNING LAW AND DISPUTE RESOLUTION) Tj
+1 0 0 1 54 562 Tm () Tj
+1 0 0 1 54 550 Tm (13.1 This Agreement shall be governed by the laws of India, without regard to) Tj
+1 0 0 1 54 538 Tm (conflict-of-law principles.) Tj
+1 0 0 1 54 526 Tm () Tj
+1 0 0 1 54 514 Tm (13.2 Any dispute arising out of or in connection with this Agreement shall be subject to the) Tj
+1 0 0 1 54 502 Tm (exclusive jurisdiction of the courts at Mumbai, Maharashtra. The Receiving Party irrevocably) Tj
+1 0 0 1 54 490 Tm (waives any objection to venue and any right to bring proceedings in any other forum.) Tj
+1 0 0 1 54 478 Tm () Tj
+1 0 0 1 54 466 Tm (13.3 Notwithstanding clause 13.2, the Disclosing Party may seek injunctive or other) Tj
+1 0 0 1 54 454 Tm (equitable relief in any court of competent jurisdiction.) Tj
+1 0 0 1 54 442 Tm () Tj
+1 0 0 1 54 430 Tm (14. GENERAL) Tj
+1 0 0 1 54 418 Tm () Tj
+1 0 0 1 54 406 Tm (14.1 This Agreement constitutes the entire agreement between the Parties concerning its) Tj
+1 0 0 1 54 394 Tm (subject matter and supersedes all prior discussions and writings.) Tj
+1 0 0 1 54 382 Tm () Tj
+1 0 0 1 54 370 Tm (14.2 Amendments must be in writing and signed by both Parties.) Tj
+1 0 0 1 54 358 Tm () Tj
+1 0 0 1 54 346 Tm (14.3 If any provision is held unenforceable, the remaining provisions shall continue in full) Tj
+1 0 0 1 54 334 Tm (force.) Tj
+1 0 0 1 54 322 Tm () Tj
+1 0 0 1 54 310 Tm (14.4 Failure to enforce any provision is not a waiver of that provision.) Tj
+1 0 0 1 54 298 Tm () Tj
+1 0 0 1 54 286 Tm (14.5 Notices shall be in writing and delivered by email with read receipt or by registered) Tj
+1 0 0 1 54 274 Tm (post to the addresses set out above.) Tj
+1 0 0 1 54 262 Tm () Tj
+1 0 0 1 54 250 Tm (IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.) Tj
+1 0 0 1 54 238 Tm () Tj
+1 0 0 1 54 226 Tm (For Vakeel Technologies Private Limited) Tj
+1 0 0 1 54 214 Tm () Tj
+1 0 0 1 54 202 Tm (Name: Ananya Sharma) Tj
+1 0 0 1 54 190 Tm (Title: Director) Tj
+1 0 0 1 54 178 Tm (Date: 15 August 2026) Tj
+1 0 0 1 54 166 Tm (Signature: _______________________) Tj
+1 0 0 1 54 154 Tm () Tj
+1 0 0 1 54 142 Tm (For Northwind Analytics Private Limited) Tj
+1 0 0 1 54 130 Tm () Tj
+1 0 0 1 54 118 Tm (Name: Rohan Mehta) Tj
+1 0 0 1 54 106 Tm (Title: Chief Executive Officer) Tj
+1 0 0 1 54 94 Tm (Date: 15 August 2026) Tj
+1 0 0 1 54 82 Tm (Signature: _______________________) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000004012 00000 n 
+0000004138 00000 n 
+0000008239 00000 n 
+0000008365 00000 n 
+0000011839 00000 n 
+0000011965 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+12033
+%%EOF
