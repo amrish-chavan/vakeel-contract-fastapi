@@ -4,16 +4,20 @@ from datetime import datetime
 from typing import Optional
 
 from bson import ObjectId
+from database import init_db
 from fastapi import FastAPI, HTTPException, Query
 from fastapi._compat import shared
-from pydantic import BaseModel, ConfigDict, Field, GetCoreSchemaHandler, GetJsonSchemaHandler
+from pydantic import (
+    BaseModel,
+    ConfigDict,
+    Field,
+    GetCoreSchemaHandler,
+    GetJsonSchemaHandler,
+)
 from pydantic.json_schema import JsonSchemaValue
 from pydantic_core import core_schema
-from database import init_db
-
-from routes.contracts import router as contracts_router
 from routes.analysis import router as analysis_router
-
+from routes.contracts import router as contracts_router
 
 app = FastAPI(
     title="vakeel-contract-api",

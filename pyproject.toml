@@ -10,7 +10,6 @@ dependencies = [
     "motor>=3.7.0",
     "pydantic>=2.13.4",
     "pymongo>=4.17.0",
-    "pypdf>=6.16.1",
     "pypdf2>=3.0.1",
     "python-dotenv>=1.2.2",
 ]
